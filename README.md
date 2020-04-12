@@ -64,10 +64,8 @@ It is Classification problem with metric evaluation as f1_score. ResNet50 which 
 9. Prediction on the trained model.
 
 ## Files
-1. [Ipynb notebook](https://github.com/prateekgupta891/Auto-Tag-Images-of-the-Gala/blob/master/HackerEarth_Gala_Classification.ipynb)
-2. [Open Notebook in colab](https://colab.research.google.com/drive/1WnrQMkQRwlG47pNwBV8BrBaxphzMrN8J)
-3. [Dataset zipped](https://drive.google.com/open?id=1uHPc9sJ8jrKRLBYSo5p4QdAf_Y7cMqLu)
-4. [Dataset with Train folder created(unzipped)](https://drive.google.com/open?id=14V54iwCWYRxmuBgFXk-SwTvRfBRzDwVb)
+1. [Ipynb notebook](https://github.com/ayush1427/ayush1427/blob/master/Auto-tag-galas-classification.ipynb)
+3. [Dataset zipped](https://drive.google.com/open?id=1uHPc9sJ8jrKRLBYSo5p4QdAf_Y7cMqLu) 
 
 ## Contributions 
 Any improvements to my technique would be greatly appreciated, including improvement, typos, etc ..
