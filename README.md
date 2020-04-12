@@ -65,7 +65,6 @@ It is Classification problem with metric evaluation as f1_score. ResNet50 which 
 
 ## Files
 1. [Ipynb notebook](https://github.com/ayush1427/ayush1427/blob/master/Auto-tag-galas-classification.ipynb)
-2. [Dataset zipped](https://drive.google.com/open?id=1uHPc9sJ8jrKRLBYSo5p4QdAf_Y7cMqLu) 
 
 ## Contributions 
 Any improvements to my technique would be greatly appreciated, including improvement, typos, etc ..
